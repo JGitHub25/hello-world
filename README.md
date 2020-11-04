@@ -9,3 +9,8 @@ Esto lo estoy añadiendo desde la rama readme-edits.
 --
 
 Cloné esta vuelta y aquí le hago un cambiecito en local.
+
+--
+##Branching
+
+Después de crear la branch rama-1.0, le estoy agregando este texto.
