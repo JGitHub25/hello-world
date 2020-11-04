@@ -15,3 +15,6 @@ Cloné esta vuelta y aquí le hago un cambiecito en local.
 
 Después de crear la branch rama-1.0, le estoy agregando este texto.
 Esto me los mostrará al usar diff?
+
+--
+Añado más cositas desde esta rama.
